@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>My Tech Docs</title>
+<link>https://efo-yu.github.io/hello-quarto/</link>
+<atom:link href="https://efo-yu.github.io/hello-quarto/index.xml" rel="self" type="application/rss+xml"/>
+<description>Technical documentation and tutorials</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Sat, 15 Jun 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Quarto Layout Features</title>
+  <dc:creator>Tech Team</dc:creator>
+  <link>https://efo-yu.github.io/hello-quarto/posts/2025-12-quarto-tips/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="カラムレイアウト" class="level2">
+<h2 class="anchored" data-anchor-id="カラムレイアウト">カラムレイアウト</h2>
+<p>Quartoでは複雑なレイアウトも簡単に記述できます。</p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<section id="list-one" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<h3 class="anchored" data-anchor-id="list-one">List One</h3>
+<ul>
+<li>Item A</li>
+<li>Item B</li>
+</ul>
+</section>
+<section id="list-two" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<h3 class="anchored" data-anchor-id="list-two">List Two</h3>
+<ul>
+<li>Item X</li>
+<li>Item Y</li>
+</ul>
+</section>
+</div>
+</div>
+<p>詳細は <a href="../../docs/authoring/article-layout.qmd">Article Layout</a> を参照してください。</p>
+
+
+</section>
+
+ ]]></description>
+  <category>quarto</category>
+  <category>tips</category>
+  <guid>https://efo-yu.github.io/hello-quarto/posts/2025-12-quarto-tips/</guid>
+  <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

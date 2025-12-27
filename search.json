@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/2025-12-python-intro/index.html",
+    "href": "posts/2025-12-python-intro/index.html",
+    "title": "My Tech Docs",
+    "section": "",
+    "text": "import numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Articles",
+    "section": "",
+    "text": "技術解説記事の一覧です。"
+  },
+  {
+    "objectID": "index.html#latest-updates",
+    "href": "index.html#latest-updates",
+    "title": "Articles",
+    "section": "",
+    "text": "技術解説記事の一覧です。"
+  },
+  {
+    "objectID": "posts/2025-12-quarto-tips/index.html",
+    "href": "posts/2025-12-quarto-tips/index.html",
+    "title": "Quarto Layout Features",
+    "section": "",
+    "text": "Quartoでは複雑なレイアウトも簡単に記述できます。\n\n\n\n\n\nItem A\nItem B\n\n\n\n\n\nItem X\nItem Y\n\n\n\n\n詳細は Article Layout を参照してください。"
+  },
+  {
+    "objectID": "posts/2025-12-quarto-tips/index.html#カラムレイアウト",
+    "href": "posts/2025-12-quarto-tips/index.html#カラムレイアウト",
+    "title": "Quarto Layout Features",
+    "section": "",
+    "text": "Quartoでは複雑なレイアウトも簡単に記述できます。\n\n\n\n\n\nItem A\nItem B\n\n\n\n\n\nItem X\nItem Y\n\n\n\n\n詳細は Article Layout を参照してください。"
+  }
+]
