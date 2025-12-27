@@ -1,0 +1,21 @@
+---
+title: "Quarto Layout Features"
+date: "2024-06-15"
+categories: [quarto, tips]
+---
+
+## カラムレイアウト
+
+Quartoでは複雑なレイアウトも簡単に記述できます。
+
+::: {layout-ncol=2}
+### List One
+- Item A
+- Item B
+
+### List Two
+- Item X
+- Item Y
+:::
+
+詳細は [Article Layout](/docs/authoring/article-layout.qmd) を参照してください。
